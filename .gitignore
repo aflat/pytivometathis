@@ -8,3 +8,14 @@
 *.vob
 *.m4v
 *.flv
+*.mpg.txt
+*.avi.txt
+*.ogm.txt
+*.mkv.txt
+*.mp4.txt
+*.mov.txt
+*.wmv.txt
+*.vob.txt
+*.m4v.txt
+*.flv.txt
+*.seriesID
